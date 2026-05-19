@@ -1,5 +1,13 @@
-## Hi there 👋
+## Hi there I Am Aaditya Pandey👋
 
+
+<hr>
+
+- **Languages:** Java, Python, SQL  
+- **Frameworks/Library:** Django, Django Rest Framework, Numpy  
+- **Tools:** Git, Github, VS Code, Postman, Cursor  
+- **Others:** OOPS, DSA  
+<br>
 ## 🌐 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/aaditya-pandey-dev/)  
