@@ -7,17 +7,15 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=Backend+Developer;Django+Developer;Django+REST+Framework;Python+Programmer;Building+Scalable+APIs" />
 
 </div>
-
+<img src="https://komarev.com/ghpvc/?username=aaditya-web-dev&label=Profile+Views&color=red&style=for-the-badge" />
 ---
 
 ## 🚀 About Me
 
 - 🎓 MCA Student at BCIIT, GGSIPU
 - 💼 Former Backend Developer Intern at Crewman Solution Pvt. Ltd.
-- 🔭 Currently working on Django & DRF Projects
-- 🌱 Currently Learning FastAPI, WebSockets & System Design
+- 🌱 Currently Learning FastAPI, DSA & React.js
 - 💡 Interested in Backend Development and Scalable Systems
-- ⚡ Love building APIs and solving DSA problems
 
 ---
 
@@ -105,32 +103,9 @@
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=aaditya-web-dev&show_icons=true&theme=tokyonight" />
-
 <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=aaditya-web-dev&theme=tokyonight" />
 
 </div>
-
----
-
-# 📈 Most Used Languages
-
-<div align="center">
-  <img height="180em"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaditya-web-dev&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
-
----
-
-# 🎯 Current Focus
-
-```yaml
-Backend Development : ██████████████ 100%
-Django              : ██████████████ 100%
-Django REST API     : ██████████████ 100%
-FastAPI             : ████████░░░░░░ 60%
-System Design       : ██████░░░░░░░░ 50%
-```
 
 ---
 
@@ -138,7 +113,6 @@ System Design       : ██████░░░░░░░░ 50%
 
 - 💼 Backend Developer Intern at Crewman Solution Pvt. Ltd.
 - 🚀 Built Production Ready CMS APIs
-- 📚 Developed Digital Library System
 - 🎓 MCA Student (GGSIPU)
 - 💻 Passionate Django Developer
 
@@ -166,8 +140,6 @@ System Design       : ██████░░░░░░░░ 50%
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile
-
-<img src="https://komarev.com/ghpvc/?username=aaditya-web-dev&label=Profile+Views&color=red&style=for-the-badge" />
-
-</div>
+<p align="center">
+  Actively seeking <b>Jobs</b> and <b>hands-on learning opportunities</b>.
+</p>
