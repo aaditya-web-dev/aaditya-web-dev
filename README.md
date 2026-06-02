@@ -2,9 +2,9 @@
 
 # Hi 👋, I'm Aaditya Pandey
 
-### Backend Developer | Django Developer | DRF Enthusiast 🚀
+### Backend Developer | Django & DRF Developer 🚀
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=700&lines=Backend+Developer;Python+Developer;Django+Developer;Django+REST+Framework;Building+Scalable+REST+APIs" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=Backend+Developer;Django+Developer;Django+REST+Framework;Python+Programmer;Building+Scalable+APIs" /
 
 </div>
 
@@ -15,7 +15,7 @@
 - 🎓 MCA Student at BCIIT, GGSIPU
 - 💼 Former Backend Developer Intern at Crewman Solution Pvt. Ltd.
 - 🔭 Currently working on Django & DRF Projects
-- 🌱 Learning FastAPI, WebSockets & System Design
+- 🌱 Currently Learning FastAPI, WebSockets & System Design
 - 💡 Interested in Backend Development and Scalable Systems
 - ⚡ Love building APIs and solving DSA problems
 
@@ -116,9 +116,8 @@
 # 📈 Most Used Languages
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaditya-web-dev&layout=compact&theme=tokyonight" />
-
+  <img height="180em"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaditya-web-dev&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
 ---
