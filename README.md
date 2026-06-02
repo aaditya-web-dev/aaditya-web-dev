@@ -4,7 +4,7 @@
 
 ### Backend Developer | Django & DRF Developer 🚀
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=Backend+Developer;Django+Developer;Django+REST+Framework;Python+Programmer;Building+Scalable+APIs" /
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=Backend+Developer;Django+Developer;Django+REST+Framework;Python+Programmer;Building+Scalable+APIs" />
 
 </div>
 
