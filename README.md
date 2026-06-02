@@ -7,7 +7,6 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=Backend+Developer;Django+Developer;Django+REST+Framework;Python+Programmer;Building+Scalable+APIs" />
 
 </div>
-<img src="https://komarev.com/ghpvc/?username=aaditya-web-dev&label=Profile+Views&color=red&style=for-the-badge" />
 ---
 
 ## 🚀 About Me
@@ -102,6 +101,7 @@
 # 📊 GitHub Stats
 
 <div align="center">
+<img src="https://komarev.com/ghpvc/?username=aaditya-web-dev&label=Profile+Views&color=red&style=for-the-badge" />
 
 <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=aaditya-web-dev&theme=tokyonight" />
 
