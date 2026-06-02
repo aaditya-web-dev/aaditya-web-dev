@@ -159,11 +159,3 @@ System Design:       ██████░░░░░░░░ 50%
 </p>
 
 ---
-
-<div align="center">
-
-### ⭐ Thanks for visiting my profile!
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile+Views&color=red&style=for-the-badge"/>
-
-</div>
