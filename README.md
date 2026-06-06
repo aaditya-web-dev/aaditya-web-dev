@@ -87,28 +87,6 @@
 - Modular Content Architecture
 - Scalable REST APIs
 
----
-
-## 🎓 College Management System
-
-- Attendance Management
-- Assignment Management
-- Marks Management
-- Timetable Management
-- Multi Role Authentication
-
----
-
-# 📊 GitHub Stats
-
-<div align="center">
-
-
-<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=aaditya-web-dev&theme=tokyonight" />
-
-<img src="https://komarev.com/ghpvc/?username=aaditya-web-dev&label=Profile+Views&color=red&style=for-the-badge" />
-
-</div>
 
 ---
 
