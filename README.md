@@ -15,7 +15,7 @@
 
 ## 🚀 About Me
 
-- ðŸŽ“ &nbsp;MCA Student at BCIIT, GGSIPU
+- 🎓 &nbsp;MCA Student at BCIIT, GGSIPU
 - ðŸ’¼ &nbsp;Former Backend Developer Intern at Crewman Solution Pvt. Ltd.
 - ðŸŒ± &nbsp;Currently Learning FastAPI, DSA & React.js
 - ðŸ’¡ &nbsp;Interested in Backend Development and Scalable Systems
