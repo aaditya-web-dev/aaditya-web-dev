@@ -4,7 +4,9 @@
 
 ### Backend Developer | Django & DRF Developer 🚀
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=E05C5C&center=true&vCenter=true&width=600&lines=Backend+Developer;Django+%26+REST+Framework;Building+Scalable+APIs;Open+to+Opportunities)](https://git.io/typing-svg)
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=Backend+Developer;Django+Developer;Django+REST+Framework;Python+Programmer;Building+Scalable+APIs" />
+
+</div>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aaditya-pandey-dev/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:pandeyaaditya013@gmail.com)
@@ -15,13 +17,12 @@
 
 ---
 
-## ðŸš€ About Me
+## 🚀 About Me
 
-- ðŸŽ“ MCA Student at BCIIT, GGSIPU
-- ðŸ’¼ Former Backend Developer Intern at Crewman Solution Pvt. Ltd.
-- ðŸŒ± Currently Learning FastAPI, DSA & React.js
-- ðŸ’¡ Interested in Backend Development and Scalable Systems
-
+🎓 MCA Student at BCIIT, GGSIPU
+💼 Former Backend Developer Intern at Crewman Solution Pvt. Ltd.
+🌱 Currently Learning FastAPI, DSA & React.js
+💡 Interested in Backend Development and Scalable Systems
 ---
 
 ## Tech Stack
@@ -52,7 +53,7 @@
 
 ---
 
-## ðŸ’¼ Experience
+# 💼 Experience
 
 ### Backend Developer Intern | Crewman Solution Pvt. Ltd.
 
@@ -70,15 +71,13 @@
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=aaditya-web-dev&show_icons=true&theme=default&hide_border=true&title_color=E05C5C&icon_color=E05C5C&text_color=333333&bg_color=ffffff" />
-&nbsp;&nbsp;
 <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaditya-web-dev&layout=compact&hide_border=true&title_color=E05C5C&text_color=333333&bg_color=ffffff" />
 
 </div>
 
 ---
 
-## ðŸŒ Connect With Me
+# 🌐 Connect With Me
 
 <p align="center">
 
