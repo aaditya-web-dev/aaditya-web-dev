@@ -67,9 +67,7 @@
 ## GitHub Stats
 
 <div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaditya-web-dev&layout=compact&hide_border=true&title_color=E05C5C&text_color=333333&bg_color=ffffff" />
-
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaditya-web-dev&layout=compact&hide_border=true&theme=dark&langs_count=3&hide=shell,fluent,c,powershell&include_repos=true&title_color=E05C5C" />
 </div>
 
 ---
