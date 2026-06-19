@@ -1,8 +1,8 @@
 <div align="center">
 
-# Aaditya Pandey
+# Hi 👋, I'm Aaditya Pandey
 
-**Backend Developer Â· Django & DRF Â· Python**
+### Backend Developer | Django & DRF Developer 🚀
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=E05C5C&center=true&vCenter=true&width=600&lines=Backend+Developer;Django+%26+REST+Framework;Building+Scalable+APIs;Open+to+Opportunities)](https://git.io/typing-svg)
 
@@ -15,11 +15,12 @@
 
 ---
 
-## About
+## ðŸš€ About Me
 
-MCA student at BCIIT, GGSIPU with hands-on experience building backend systems in production. I recently completed a Backend Developer internship at **Crewman Solution Pvt. Ltd.**, where I designed REST APIs, implemented JWT authentication, and built Role-Based Access Control from the ground up.
-
-I care about clean architecture, efficient queries, and APIs that are easy to integrate with. Currently deepening my knowledge in **FastAPI**, **Data Structures & Algorithms**, and **React.js**.
+- ðŸŽ“ MCA Student at BCIIT, GGSIPU
+- ðŸ’¼ Former Backend Developer Intern at Crewman Solution Pvt. Ltd.
+- ðŸŒ± Currently Learning FastAPI, DSA & React.js
+- ðŸ’¡ Interested in Backend Development and Scalable Systems
 
 ---
 
@@ -51,16 +52,17 @@ I care about clean architecture, efficient queries, and APIs that are easy to in
 
 ---
 
-## Experience
+## ðŸ’¼ Experience
 
-### Backend Developer Intern â€” Crewman Solution Pvt. Ltd.
+### Backend Developer Intern | Crewman Solution Pvt. Ltd.
 
-- Built and maintained backend services using **Django REST Framework**
-- Designed scalable REST APIs consumed by web and mobile clients
-- Implemented **JWT Authentication** and **Role-Based Access Control (RBAC)**
-- Optimized database queries to reduce response times
-- Collaborated with frontend teams to align on API contracts
-- Conducted API testing and documentation with **Postman**
+- Developed backend services using Django REST Framework
+- Designed scalable REST APIs
+- Implemented JWT Authentication
+- Implemented Role Based Access Control (RBAC)
+- Optimized database queries
+- Collaborated with frontend teams
+- API Testing using Postman
 
 ---
 
@@ -76,22 +78,26 @@ I care about clean architecture, efficient queries, and APIs that are easy to in
 
 ---
 
-## Currently Learning
+## ðŸŒ Connect With Me
 
-- **FastAPI** â€” building async, high-performance APIs
-- **Data Structures & Algorithms** â€” sharpening problem-solving skills
-- **React.js** â€” understanding the full-stack picture
+<p align="center">
 
----
+<a href="https://www.linkedin.com/in/aaditya-pandey-dev/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
 
-## Let's Connect
+<a href="mailto:pandeyaaditya013@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
 
-I'm actively looking for **backend developer roles** and opportunities to work on real-world engineering problems.
+<a href="https://aaditya-web-dev.github.io/aaditya-portfolio/#top">
+<img src="https://img.shields.io/badge/Portfolio-FF0000?style=for-the-badge&logo=google-chrome"/>
+</a>
 
-Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/aaditya-pandey-dev/) or drop me a mail at [pandeyaaditya013@gmail.com](mailto:pandeyaaditya013@gmail.com).
+</p>
 
 ---
 
 <div align="center">
-<sub>Built with focus, not flair.</sub>
+<p>Actively seeking <b>Jobs</b> and <b>hands-on learning opportunities</b>.</p>
 </div>
