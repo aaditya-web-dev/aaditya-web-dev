@@ -8,10 +8,6 @@
 
 </div>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aaditya-pandey-dev/)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:pandeyaaditya013@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=flat-square&logo=google-chrome&logoColor=white)](https://aaditya-web-dev.github.io/aaditya-portfolio/#top)
-![Profile Views](https://komarev.com/ghpvc/?username=aaditya-web-dev&style=flat-square&color=E05C5C)
 
 </div>
 
@@ -79,21 +75,10 @@
 
 # 🌐 Connect With Me
 
-<p align="center">
-
-<a href="https://www.linkedin.com/in/aaditya-pandey-dev/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:pandeyaaditya013@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
-</a>
-
-<a href="https://aaditya-web-dev.github.io/aaditya-portfolio/#top">
-<img src="https://img.shields.io/badge/Portfolio-FF0000?style=for-the-badge&logo=google-chrome"/>
-</a>
-
-</p>
+(https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aaditya-pandey-dev/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:pandeyaaditya013@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=flat-square&logo=google-chrome&logoColor=white)](https://aaditya-web-dev.github.io/aaditya-portfolio/#top)
+![Profile Views](https://komarev.com/ghpvc/?username=aaditya-web-dev&style=flat-square&color=E05C5C)
 
 ---
 
