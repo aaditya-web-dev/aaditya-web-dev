@@ -50,7 +50,7 @@
 
 ---
 
-# 💼 Experience
+## 💼 Experience
 
 ### Backend Developer Intern | Crewman Solution Pvt. Ltd.
 
@@ -74,7 +74,7 @@
 
 ---
 
-# 🌐 Connect With Me
+## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aaditya-pandey-dev/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:pandeyaaditya013@gmail.com)
