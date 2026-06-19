@@ -33,12 +33,6 @@
 <img src="https://skillicons.dev/icons?i=django" />
 </p>
 
-- Django
-- Django REST Framework
-- REST APIs
-- JWT Authentication
-- Role Based Access Control (RBAC)
-
 ### Database
 
 <p>
