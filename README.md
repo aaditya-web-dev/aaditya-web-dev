@@ -65,37 +65,6 @@
 - Collaborated with frontend teams
 - API Testing using Postman
 
----
-
-# 🚀 Featured Projects
-
-## 📚 Digital Library System
-
-- JWT Authentication
-- Student Registration & Login
-- Book Request Management
-- Admin Approval Workflow
-- DRF APIs
-
----
-
-## 🏢 Content Management System
-
-- Dynamic Pages & Sub-Pages
-- JWT Authentication
-- RBAC
-- Modular Content Architecture
-- Scalable REST APIs
-
-
----
-
-# 🏆 Achievements
-
-- 💼 Backend Developer Intern at Crewman Solution Pvt. Ltd.
-- 🚀 Built Production Ready CMS APIs
-- 🎓 MCA Student (GGSIPU)
-- 💻 Passionate Django Developer
 
 ---
 
