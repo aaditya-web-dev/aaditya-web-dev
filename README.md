@@ -15,10 +15,11 @@
 
 ## 🚀 About Me
 
-   🎓 MCA Student at BCIIT, GGSIPU
-   💼 Former Backend Developer Intern at      Crewman Solution Pvt. Ltd.
-   🌱 Currently Learning FastAPI, DSA &        React.js
-   💡 Interested in Backend Development       and Scalable Systems
+- ðŸŽ“ &nbsp;MCA Student at BCIIT, GGSIPU
+- ðŸ’¼ &nbsp;Former Backend Developer Intern at Crewman Solution Pvt. Ltd.
+- ðŸŒ± &nbsp;Currently Learning FastAPI, DSA & React.js
+- ðŸ’¡ &nbsp;Interested in Backend Development and Scalable Systems
+- 
 ---
 
 ## Tech Stack
@@ -75,7 +76,7 @@
 
 # 🌐 Connect With Me
 
-(https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aaditya-pandey-dev/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aaditya-pandey-dev/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:pandeyaaditya013@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=flat-square&logo=google-chrome&logoColor=white)](https://aaditya-web-dev.github.io/aaditya-portfolio/#top)
 ![Profile Views](https://komarev.com/ghpvc/?username=aaditya-web-dev&style=flat-square&color=E05C5C)
